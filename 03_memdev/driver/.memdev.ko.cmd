@@ -1,0 +1,1 @@
+cmd_/home/renchy/guoqian/03_memdev/driver/memdev.ko := arm-linux-ld -EL  -r -o /home/renchy/guoqian/03_memdev/driver/memdev.ko /home/renchy/guoqian/03_memdev/driver/memdev.o /home/renchy/guoqian/03_memdev/driver/memdev.mod.o
