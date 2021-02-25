@@ -1,0 +1,1 @@
+cmd_/home/renchy/guoqian/05_interrupt_layering_work_queue/work_queue.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/renchy/guoqian/05_interrupt_layering_work_queue/work_queue.ko /home/renchy/guoqian/05_interrupt_layering_work_queue/work_queue.o /home/renchy/guoqian/05_interrupt_layering_work_queue/work_queue.mod.o;  true
